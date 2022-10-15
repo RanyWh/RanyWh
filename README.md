@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RanyWh
+- 🌱 I’m currently learning Computer science
+- 📫 U can reach me at ranywh@mta.ac.il
